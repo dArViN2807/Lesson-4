@@ -1,0 +1,22 @@
+.photo1 {
+  padding: 5px;
+  margin-top: 20px;
+  margin-left: 500px;
+  width: 600px;
+  border: 2px solid black;
+  font-size: 20px;
+  text-align: justify;
+  text-decoration: aliceblue;
+}
+img {
+  width: 600px;
+  height: 300px;
+}
+h1 {
+  text-align: center;
+  font-size: 24px;
+}
+a {
+  display: block;
+  text-align: right;
+}
